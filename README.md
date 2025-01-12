@@ -1,4 +1,4 @@
-# Go Simple CRUD API
+# Go Simple CRD API
 
 This is a simple CRD (Create, Read, Delete) API built with Go and the Gorilla Mux router. The API allows you to manage a list of people with basic information such as first name, last name, and address.
 
